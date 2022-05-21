@@ -5,6 +5,8 @@
     
   ## Description
   This application was created through node and express to record notes and be able to save them on the server. This application is deployed using the Heroku CLI
+  ![example](https://user-images.githubusercontent.com/95864720/169638329-6deca4a4-dbc8-4f98-90dc-85944ade25f3.gif)
+
 
   ## Table of Contents
   - [Description](#description)
