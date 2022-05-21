@@ -4,7 +4,7 @@
   ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
     
   ## Description
-  This application was created through node and express to record notes and be able to save them on the server.
+  This application was created through node and express to record notes and be able to save them on the server. This application is deployed using the Heroku CLI
 
   ## Table of Contents
   - [Description](#description)
